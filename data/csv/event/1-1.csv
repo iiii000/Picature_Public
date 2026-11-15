@@ -1,0 +1,7 @@
+0,player,lie
+60,player,shake
+70,player,stop
+90,player,shake
+120,player,stop
+180,player,idle
+240,end,none
